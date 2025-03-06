@@ -1,3 +1,4 @@
+package Ejercicioexamen;
 public class GestorTienda {
     
     public double calcularDescuento(double precio, int cantidadComprada) {
